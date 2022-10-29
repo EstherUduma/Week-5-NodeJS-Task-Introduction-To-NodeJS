@@ -1,12 +1,13 @@
 <h1>Week-5-NodeJS-Task-Introduction-To-NodeJS</h1>
 
 <h2>Description</h2>
-This repository is week4 task given by zuri
+This repository is week5 task given by zuri
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
+- <b>Node JS</b>
 - <b>HTML</b> 
 - <b>CSS</b>
 
